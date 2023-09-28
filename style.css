@@ -1,6 +1,6 @@
 /*this is my main style sheet
 blue #3C8FDD
-green #6FBEEE
+green #D5FFF9
 white #DDEAF3
 brown #B9BC88
 pink #D8C5A5  */
@@ -16,7 +16,7 @@ pink #D8C5A5  */
 }
 
 .bg-green{
-  background-color:#6FBEEE ;
+  background-color:#D5FFF9 ;
   padding:50px;
 }
 
@@ -24,8 +24,13 @@ pink #D8C5A5  */
   background-color:#3C8FDD ;
   padding:50px;
 }
+
+
+
+
+
 nav{
-  background-color:#3C8FDD;
+  background-color:#D5FFF9;
   border:1px solid #DDEAF3;
   color:#B9BC88
   display:block;
@@ -47,7 +52,7 @@ nav ul li a{
 }
 
 nav ul li:hover{
-  background-color: #6FBEEE;
+  background-color: #DDEAF3;
 }
 nav ul li:hover a{
   color:red;
