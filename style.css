@@ -57,3 +57,44 @@ nav ul li:hover{
 nav ul li:hover a{
   color:red;
 }
+
+
+
+
+
+
+.column-circle {
+float: left;
+  width: 33%;
+  padding: 20px;
+  text-align: center;
+}
+
+.column-circle img{
+  width: 200px;
+  height: 200px;
+  border-radius: 200px
+}
+
+
+*{box-sizing:border-box;}
+ .row:after{
+content:"";
+display:table;
+clear:both;
+}
+
+.column-circle2 {
+float: left;
+  width: 23%;
+  padding: 20px;
+  text-align: center;
+}
+
+.column-circle2 img{
+  width: 200px;
+  height: 200px;
+  border-radius: 200px
+}
+
+
