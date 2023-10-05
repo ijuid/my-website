@@ -8,6 +8,7 @@ pink #D8C5A5  */
 .bg-white{
   background-color:#DDEAF3 ;
   padding:50px;
+  padding-bottom: 150px;
 }
 
 .bg-pink{
@@ -98,3 +99,22 @@ float: left;
 }
 
 
+h1{
+  font-family: 'Gabarito', cursive;
+}
+
+li{
+  font-family: 'Gabarito', cursive;
+}
+
+h2{
+  font-family: 'Gabarito', cursive;
+}
+
+.section{
+  padding:80px;
+}
+
+p{
+font-family: 'Inter', sans-serif;
+}
